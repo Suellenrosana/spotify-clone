@@ -28,7 +28,7 @@
   } */
 }
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 900px) {
   .playlist {
     display: none;
   }
@@ -39,7 +39,7 @@
   }
 
   .sidebar {
-    width: 342px;
+    width: 340px;
   }
 
   .offer__list-item {
