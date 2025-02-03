@@ -15,4 +15,4 @@ Esta interface simula a navegação e as interações presentes na plataforma, s
 <li>Responsividade: Layout adaptável para celulares, tablets, notebooks e desktops, garantindo uma experiência consistente em todas as telas.
 </ul>
 <h2>🎨 Design e Interface</h2>
-<img src="[https://suellenrosana.github.io/spotify-clone/](https://github.com/Suellenrosana/spotify-clone/blob/main/src/assets/icons/screen-Spotify.png?raw=true)">
+<img src="https://github.com/Suellenrosana/spotify-clone/blob/main/src/assets/icons/screen-Spotify.png?raw=true">
